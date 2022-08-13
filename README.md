@@ -1,6 +1,7 @@
 # Employee-Leave-Management-System
 
-A Employee Leave Management System(ELMS) automates the leave request process, making it hassle-free for both the management and the employees. The solution of your choice should be robust enough to seamlessly handle all the stages involved in a leave management process: application, approval/rejection, filing leaves, managing leave balance, and analysis.
+A Employee Leave Management System(ELMS) automates the leave request process, making it hassle-free for both the management and the employees. It can seamlessly handle all the stages involved in a leave management process: 
+application, approval/rejection, filing leaves, managing leave balance, and analysis.
 
 This system was done using PHP and MySQL. This was a part of Database Management System course.
 
@@ -19,3 +20,4 @@ Installation
 * Populate the database by importing the db/elms.sql file via phpMyAdmin
 * Configure your database connection details in the includes/config.php file
 * Start the server and open the webpage in localhost/elms
+VEDANT SRIVASTAVA
